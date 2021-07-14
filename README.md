@@ -5,7 +5,6 @@
 ##如果您觉得本项目对你有用，请随手star，谢谢
 
 ## Demo
-![Demo](/pic/Demo.gif)
 
 ###一句代码搞定 可以修改分辨率或者码率
         VideoCompressTask task = VideoCompress.compressVideoLow(tv_input.getText().toString(), destPath, new VideoCompress.CompressListener() {
